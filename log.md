@@ -19,3 +19,6 @@
 
 **Useful Link(s):** 
 1. [Codewithmosh Course](https://codewithmosh.com/p/python-programming-course-beginners)
+
+### Day 3: August 3, Monday - 2020
+School Break

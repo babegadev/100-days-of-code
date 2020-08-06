@@ -37,7 +37,8 @@ School Break
 1. [FizzBuzz App](https://babega.com/cgi-bin/app.py)
 
 
-### Day 5: August 5, Webdesday - 2020
+
+### Day 5: August 5, Wednesday - 2020
 
 **Today's Progress**: Reviewed For, While, Finished Basic Python Challenge on Hackerrank, Made the car game
 
@@ -45,3 +46,15 @@ School Break
 
 **Useful Link(s):** 
 1. [Hackerrank Basic Python Challenge](https://www.hackerrank.com/domains/python)
+
+
+
+
+### Day 6: August 6, Thursday - 2020
+
+**Today's Progress**: DATA STRUCTURES: Lists, Other List functions, Sorting Lists, Lambda, Map, Filter, List Comprehension
+
+**Thoughts:** Data Structures: Fun, Challenging, and of course made me think. Learned how to make list and performed some operations with lists. Learned how to sort the list with a custom function and lambda function. Map and Filter was also pretty fun. Learned how to sort a more complex list (tuples in a list). And learned how to code better with the List Comprehension. Fun Day! Looking forward to learn some more Data Structures.
+
+**Useful Link(s):** 
+1. [Python Data Structures Docs](https://docs.python.org/3/tutorial/datastructures.html)

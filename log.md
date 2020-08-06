@@ -31,7 +31,17 @@ School Break
 
 **Today's Progress**: For, For Else, While, Infinite Loops, Functions, Scope, Debugging, and Made a FizzBuzz App
 
-**Thoughts:** Leearned For, For Else, While and made an app that determines even numbers. Fun part is functions: I buld the FizzBuzz app with things i have learned troughout the course. Learned how to debug a program too :)
+**Thoughts:** Learned For, For Else, While and made an app that determines even numbers. Fun part is functions: I buld the FizzBuzz app with things i have learned troughout the course. Learned how to debug a program too :)
 
 **Link(s) to work:** 
 1. [FizzBuzz App](https://babega.com/cgi-bin/app.py)
+
+
+### Day 5: August 5, Webdesday - 2020
+
+**Today's Progress**: Reviewed For, While, Finished Basic Python Challenge on Hackerrank, Made the car game
+
+**Thoughts:** I reviewed some things i learned yesterday since i was a little bit confused. Mostly did challenges to test out my skills and refresh my brain. I completed the Basic Python Challenge on Hackerrank and build a car came.
+
+**Useful Link(s):** 
+1. [Hackerrank Basic Python Challenge](https://www.hackerrank.com/domains/python)

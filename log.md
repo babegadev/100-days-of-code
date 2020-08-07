@@ -58,3 +58,14 @@ School Break
 
 **Useful Link(s):** 
 1. [Python Data Structures Docs](https://docs.python.org/3/tutorial/datastructures.html)
+
+
+
+### Day 7: August 7, Friday - 2020
+
+**Today's Progress**: DATA STRUCTURES: Zip, Stacks, Queues, Tuples, Var Swap, Arrays, Sets, Dictionaries, Dictionary Comprehension, Generator Expression, Unpacking Operator
+
+**Thoughts:** There's a LOT of things i learned. Zip to combine 2 lists, Stacks (First in last out), Queues (First in first out), Tuples, Variable swapping, Arrays, Sets to avoid duplicates. Fun part was the dictionary. Learned how to create, add, edit, remove a dictionary. Solved a challenge to find the most used word in a sentence. Pretty Fun Challenge! Still confused on some parts tho.
+
+**Useful Link(s):** 
+1. [Python Dictionaries Docs](https://docs.python.org/3.8/tutorial/datastructures.html#dictionaries)

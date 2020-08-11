@@ -69,3 +69,33 @@ School Break
 
 **Useful Link(s):** 
 1. [Python Dictionaries Docs](https://docs.python.org/3.8/tutorial/datastructures.html#dictionaries)
+
+
+
+### Day 8: August 8, Saturday - 2020
+
+**Today's Progress**: Exceptions - Try, except, else, finally, raising exception.
+
+**Thoughts:** Not so much fun learning about these exceptions today. But i guess it might be important someday so yeah. Hoping to start a new day better!
+
+**Useful Link(s):** 
+1. [Python Exceptions](https://realpython.com/python-exceptions/)
+
+
+
+### Day 9: August 9, Sunday - 2020
+
+**Today's Progress**: Classes
+
+**Thoughts:** Even more and more challenging things are coming! Learnt the basics of classes in python: Creating classes, constructors, magic methods, and other methods. Gotta keep goin!
+
+**Useful Link(s):**
+1. #
+
+
+
+### Day 10: August 10, Monday - 2020
+
+**Today's Progress**: Created a Todo app in Python
+
+**Thoughts:** I took a break from my main class and made a todo list app!

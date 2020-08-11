@@ -99,8 +99,7 @@ School Break
 **Useful Link(s):**
 1. None
 
-***
-
+------------------------------
 <br/>
 
 ### Day 10: August 10, Monday - 2020

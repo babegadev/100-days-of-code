@@ -118,4 +118,4 @@ School Break
 **Thoughts:** Continued my todo list app and created a repository of my python apps. Mostly took a break from coding
 
 **Useful Link(s):**
-1. [Python Projects Repository] (https://github.com/babegadev/learn-python/todo-app/)
+1. [Python Projects Repository](https://github.com/babegadev/learn-python/todo-app/)

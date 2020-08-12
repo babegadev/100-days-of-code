@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# Hi, I'm Alang. And I've joined the #100DaysOfCode Challenge
 
 ## Contents
 

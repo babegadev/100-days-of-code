@@ -107,3 +107,15 @@ School Break
 **Today's Progress**: Created a Todo app in Python
 
 **Thoughts:** I took a break from my main class and made a todo list app!
+
+------------------------------
+<br/>
+
+### Day 11: August 11, Tuesday - 2020
+
+**Today's Progress**: Continued todo app and created a repository
+
+**Thoughts:** Continued my todo list app and created a repository of my python apps. Mostly took a break from coding
+
+**Useful Link(s):**
+1. [Python Projects Repository] (https://github.com/babegadev/learn-python/todo-app/)

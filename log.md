@@ -119,3 +119,61 @@ School Break
 
 **Useful Link(s):**
 1. [Python Projects Repository](https://github.com/babegadev/learn-python/)
+
+------------------------------
+<br/>
+
+### Day 12: August 12, Wednesday - 2020
+
+**Today's Progress**: Made a twitter bot and some small apps/projects
+
+**Thoughts:** Followed a tutorial on how to make a twitter bot :)
+
+**Link(s) to work:**
+1. [BDevBot Twitter](https://twitter.com/bdevbot)
+2. [Python Projects Repository](https://github.com/babegadev/learn-python/)
+
+------------------------------
+<br/>
+
+### Day 13: August 13, Thursday - 2020
+
+**Today's Progress**: Python class
+
+**Thoughts:** Custom containers, Private members, Properties, Inheritance, Multi level inheritance, Multiple inheritance
+
+**Useful Link(s):**
+1. [Codewithmosh Course](https://codewithmosh.com/)
+
+------------------------------
+<br/>
+
+### Day 14: August 14, Friday - 2020
+
+**Today's Progress**: Reviewed Python Class
+
+**Thoughts:** Reviewed python class
+
+------------------------------
+<br/>
+
+### Day 15: August 15, Saturday - 2020
+
+**Today's Progress**: Python modules
+
+**Thoughts:** Creating modules, Compiled python files, Module search path, Packages, Sub packages, Executing modules as scripts
+
+**Useful Link(s):**
+1. [Codewithmosh Course](https://codewithmosh.com/)
+
+------------------------------
+<br/>
+
+### Day 16: August 16, Sunday - 2020
+
+**Today's Progress**: Python Standard Library
+
+**Thoughts:** A LOT of things i learned today. Paths, Directories, Files, Zip Files, CSV, JSON, SQLite Database, Timestamps, DateTimes, Random Values, Opening Browser, Sending Emails, Email Templates, Command Line Arguments, and Running external programs
+
+**Useful Link(s):**
+1. [Codewithmosh Course](https://codewithmosh.com/)

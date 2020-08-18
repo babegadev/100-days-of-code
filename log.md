@@ -20,14 +20,12 @@
 **Useful Link(s):** 
 1. [Codewithmosh Course](https://codewithmosh.com/p/python-programming-course-beginners)
 
-------------------------------
-<br/>
+---
 
 ### Day 3: August 3, Monday - 2020
 School Break
 
-------------------------------
-<br/>
+---
 
 ### Day 4: August 4, Tuesday - 2020
 
@@ -38,8 +36,7 @@ School Break
 **Link(s) to work:** 
 1. [FizzBuzz App](https://babega.com/cgi-bin/app.py)
 
-------------------------------
-<br/>
+---
 
 ### Day 5: August 5, Wednesday - 2020
 
@@ -50,8 +47,7 @@ School Break
 **Useful Link(s):** 
 1. [Hackerrank Basic Python Challenge](https://www.hackerrank.com/domains/python)
 
-------------------------------
-<br/>
+---
 
 ### Day 6: August 6, Thursday - 2020
 
@@ -62,8 +58,7 @@ School Break
 **Useful Link(s):** 
 1. [Python Data Structures Docs](https://docs.python.org/3/tutorial/datastructures.html)
 
-------------------------------
-<br/>
+---
 
 ### Day 7: August 7, Friday - 2020
 
@@ -74,8 +69,7 @@ School Break
 **Useful Link(s):** 
 1. [Python Dictionaries Docs](https://docs.python.org/3.8/tutorial/datastructures.html#dictionaries)
 
-------------------------------
-<br/>
+---
 
 ### Day 8: August 8, Saturday - 2020
 
@@ -86,8 +80,7 @@ School Break
 **Useful Link(s):** 
 1. [Python Exceptions](https://realpython.com/python-exceptions/)
 
-------------------------------
-<br/>
+---
 
 ### Day 9: August 9, Sunday - 2020
 
@@ -98,8 +91,7 @@ School Break
 **Useful Link(s):**
 1. None
 
-------------------------------
-<br/>
+---
 
 ### Day 10: August 10, Monday - 2020
 
@@ -107,8 +99,7 @@ School Break
 
 **Thoughts:** I took a break from my main class and made a todo list app!
 
-------------------------------
-<br/>
+---
 
 ### Day 11: August 11, Tuesday - 2020
 
@@ -119,8 +110,7 @@ School Break
 **Useful Link(s):**
 1. [Python Projects Repository](https://github.com/babegadev/learn-python/)
 
-------------------------------
-<br/>
+---
 
 ### Day 12: August 12, Wednesday - 2020
 
@@ -132,8 +122,7 @@ School Break
 1. [BDevBot Twitter](https://twitter.com/bdevbot)
 2. [Python Projects Repository](https://github.com/babegadev/learn-python/)
 
-------------------------------
-<br/>
+---
 
 ### Day 13: August 13, Thursday - 2020
 
@@ -144,8 +133,7 @@ School Break
 **Useful Link(s):**
 1. [Codewithmosh Course](https://codewithmosh.com/)
 
-------------------------------
-<br/>
+---
 
 ### Day 14: August 14, Friday - 2020
 
@@ -153,8 +141,7 @@ School Break
 
 **Thoughts:** Reviewed python class
 
-------------------------------
-<br/>
+---
 
 ### Day 15: August 15, Saturday - 2020
 
@@ -165,8 +152,7 @@ School Break
 **Useful Link(s):**
 1. [Codewithmosh Course](https://codewithmosh.com/)
 
-------------------------------
-<br/>
+---
 
 ### Day 16: August 16, Sunday - 2020
 
@@ -177,8 +163,7 @@ School Break
 **Useful Link(s):**
 1. [Codewithmosh Course](https://codewithmosh.com/)
 
-------------------------------
-<br/>
+---
 
 ### Day 17: August 17, Monday - 2020
 
@@ -189,8 +174,7 @@ School Break
 **Useful Link(s):**
 1. [Codewithmosh Course](https://codewithmosh.com/)
 
-------------------------------
-<br/>
+---
 
 ### Day 18: August 18, Tuesday - 2020
 

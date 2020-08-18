@@ -177,3 +177,24 @@ School Break
 
 **Useful Link(s):**
 1. [Codewithmosh Course](https://codewithmosh.com/)
+
+------------------------------
+<br/>
+
+### Day 17: August 17, Monday - 2020
+
+**Today's Progress**: Created a django app, learned some basic machine learning, and finished Codewithmosh course!
+
+**Thoughts:** Built a virtual video rental app with django, also learned about data science with python. Finally completed my codewithmosh python mastery course! Looking forward to learn JavaScript
+
+**Useful Link(s):**
+1. [Codewithmosh Course](https://codewithmosh.com/)
+
+------------------------------
+<br/>
+
+### Day 18: August 18, Tuesday - 2020
+
+**Today's Progress**: Made another django app (social website)
+
+**Thoughts:** Build another django app today, learning more about models, views, urls and templates. Started planning to start learning JavaScript

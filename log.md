@@ -9,8 +9,7 @@
 **Useful Link(s):** 
 1. [Codewithmosh Course](https://codewithmosh.com/p/python-programming-course-beginners)
 
-------------------------------
-<br/>
+---
 
 ### Day 2: August 2, Sunday - 2020
 

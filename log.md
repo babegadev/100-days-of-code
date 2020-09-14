@@ -191,15 +191,18 @@ School Break
 **Thoughts:** Finally done with the python course. View my certificate here
 
 **Useful Link(s):**
-1. [Python Mastery Certificate](https://codewithmosh.com/)
+1. [Python Mastery Certificate](https://babega.com/assets/img/certificates/codwithmosh-python.pdf)
 
 ---
 
 ### Day 20-29: August 20-29 - 2020
 
-**Progress**: Joined [Javascript Mastery Course Part 1](https://codewithmosh.com/)
+**Progress**: Joined and Completed [Javascript Mastery Course Part 1](https://codewithmosh.com/)
 
-**Thoughts:** So I basically learned all tha basics of the pure JavaScript (No DOM whatsoever). It was a lot of things to learn but it was absolutely worth the time and effort. I learned about basic DOM from free Udemy courses and YouTube. I also made a few cool projects (these projects aren't included in the course).
+**Thoughts:** So I basically learned all tha basics of the pure JavaScript (No DOM whatsoever). It was a lot of things to learn but it was absolutely worth the time and effort. I learned about basic DOM from free Udemy courses and YouTube. I also made a few cool projects (these projects aren't included in the course). View my certificate here
+
+**Useful Link(s):**
+1. [Javascript Basics Certificate](https://babega.com/assets/img/certificates/codwithmosh-javascript-basics.pdf)
 
 **Project Link(s):** (Not included in the course)
 1. [Quick-quiz](https://babega.com/p/quiz)

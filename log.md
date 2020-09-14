@@ -181,3 +181,39 @@ School Break
 **Today's Progress**: Made another django app (social website)
 
 **Thoughts:** Build another django app today, learning more about models, views, urls and templates. Started planning to start learning JavaScript
+
+---
+
+### Day 19: August 19, Wednesday - 2020
+
+**Today's Progress**: Finished Python Course and Claimed my Certificate
+
+**Thoughts:** Finally done with the python course. View my certificate here
+
+**Useful Link(s):**
+1. [Python Mastery Certificate](https://codewithmosh.com/)
+
+---
+
+### Day 20-29: August 20-29 - 2020
+
+**Progress**: Joined [Javascript Mastery Course Part 1](https://codewithmosh.com/)
+
+**Thoughts:** So I basically learned all tha basics of the pure JavaScript (No DOM whatsoever). It was a lot of things to learn but it was absolutely worth the time and effort. I learned about basic DOM from free Udemy courses and YouTube. I also made a few cool projects (these projects aren't included in the course).
+
+**Project Link(s):** (Not included in the course)
+1. [Quick-quiz](https://babega.com/p/quiz)
+2. [Quotify](https://babega.com/p/quotify)
+3. [JS Calculator](https://babega.com/p/calculator)
+4. [JS Clock](https://babega.com/p/clock)
+
+---
+
+### Day 30-33: August 30 - September 2 - 2020
+
+**Progress**: Joined Angela Yu's [Complete Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/). 3 Days for reviewing HTML and CSS.
+
+**Thoughts:** This course is AWESOME. She explained all the things we need clearly. But this isn't the fun part since i prefer backend and need to improve my CSS skils. But i'll just skim the frontend part of this course. PS: I skipped Bootstrap and went to JS.
+
+**Useful Link(s):**
+1. [Complete Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)

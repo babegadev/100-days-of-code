@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Table of Contents
+<details>
+  <summary>Click to expand</summary>
+  * <a href="#day-1-august-1-saturday---2020">Day 1-5</a>\
+  * <a href="#day-6-august-6-thursday---2020">Day 6-10</a>\
+  * <a href="#day-10-august-10-monday---2020">Day 11-15</a>\
+  * <a href="#day-16-august-16-sunday---2020">Day 16-19</a>\
+  * <a href="#day-20-29-august-20-29---2020">Day 20-29</a>\
+  * <a href="#day-30-33-august-30---september-2---2020">Day 30-33</a>\
+</details>
+
+---
+
 ### Day 1: August 1, Saturday - 2020
 
 **Today's Progress**: Environment Setup for Python, Basic Python Knowledge

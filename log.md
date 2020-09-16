@@ -235,3 +235,43 @@ School Break
 
 **Useful Link(s):**
 1. [Complete Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+---
+
+### Day 34-37: September 3-6 - 2020
+
+**Progress**: Advanced JavaScript, jQuery, and made a few more projects
+
+**Thoughts:** Learned some more JavaScript and Completed some challenges. Made a Dice Game. Learned jQuery and made the simon game
+
+**Link to project(s):**
+1. [Dice Game](https://babega.com/p/dice)
+2. [Simon Game](https://babega.com/p/simon)
+
+---
+
+### Day 38-39: September 7-8 - 2020
+
+**Progress**: Unix Command Line. Backend Intro, and NodeJS
+
+**Thoughts:** Finally got into beckend web development, I learned about NodeJS and NPM, and how NodeJS can be used for a server side program.
+
+---
+
+### Day 40-42: September 9-11 - 2020
+
+**Progress**: Basic Express: Handling Request, Routing, sending HTML files and setting up nodemon. Body Parser
+
+**Thoughts:** Made a very basic web server with express that calculates your BMI. Learned about how we can retreive form data, handling requests, and responding with HTML files. Also learned about using Body Parser
+
+---
+
+### Day 43: September 12 - 2020
+
+**Progress**: API, API, API. Postman, HTTPS module, Parse & Stringify JSON. Deploying to Heroku
+
+**Thoughts:** Made a newsletter signup page that interacts with the Mailchimp API. Learned about API endpoints, paths, and parameters. The possibilities with API's are endless. In the end, i also learned about how to deploy applications to Heroku.
+
+**Link to project(s):**
+1. [Newsletter SignUp](https://babega-newsletter.herokuapp.com) - Might be offline
+

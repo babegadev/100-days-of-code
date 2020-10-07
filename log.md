@@ -268,10 +268,77 @@ School Break
 
 ### Day 43: September 12 - 2020
 
-**Progress**: API, API, API. Postman, HTTPS module, Parse & Stringify JSON. Deploying to Heroku
+**Progress**: API, API, API. Postman, HTTPS module, Parse & Stringify JSON. Deploying to Heroku.
 
 **Thoughts:** Made a newsletter signup page that interacts with the Mailchimp API. Learned about API endpoints, paths, and parameters. The possibilities with API's are endless. In the end, i also learned about how to deploy applications to Heroku.
 
 **Link to project(s):**
-1. [Newsletter SignUp](https://babega-newsletter.herokuapp.com) - Might be offline
+1. [Newsletter SignUp](https://babega-newsletter.herokuapp.com)
 
+---
+
+### Day 44: September 13 - 2020
+
+**Progress**: Git, Github, EJS Templates.
+
+**Thoughts:** Learned how to use basic git and github from terminal to manage repo and commits. Also learned jsx template rendering. Created a basic BMI calculator.
+
+**Link to project(s):**
+1. [Newsletter SignUp](https://babega-newsletter.herokuapp.com)
+
+---
+
+### Day 45: September 14 - 2020
+
+**Progress**: EJS Practice and Database. SQL vs noSQL
+
+**Thoughts:** Built a blog website with EJS and ExpressJS. Also learned the differences between SQL Databases and noSQL Databases.
+
+---
+
+### Day 46: September 15 - 2020
+
+**Progress**: SQL and MongoDB
+
+**Thoughts:** Learned basic SQL commands to Create, Read, Update, and Delete data (CRUD Operation). Also learned about SQL Relationships. Then I learned MongoDB and how it actually works (They store data as Documents similar like JS Objects). Also learned how to use the native MongoDB driver in NodeJS applications.
+
+---
+
+### Day 47: September 16 - 2020
+
+**Progress**: Mongoose and Todo List Upgrade
+
+**Thoughts:** Today, I learned Mongoose (Which makes life a lot easier) to store data for my Apps. Also upgraded the Todo list so that it has permanent data storage. Learned about creating schemas for my documents, mongoose connections models and others.
+
+**Link to project(s):**
+1. [Todozo](https://todozo.herokuapp.com)
+
+---
+
+### Day 48: September 17 - 2020
+
+**Progress**: Blog Website Upgrade
+
+**Thoughts:** Reviewed mongoose and MongoDB by upgrading the Blog website so that it has permanent data storage.
+
+**Link to project(s):**
+1. [Blog Website](https://dailycodelog.herokuapp.com)
+
+---
+
+### Day 49: September 17 - 2020
+
+**Progress**: Mongoose and Blog Website Upgrade
+
+**Thoughts:** Today, I learned Mongoose (Which makes life a lot easier) to store data for my Apps. Also upgraded the Blog website so that it has permanent data storage. Learned about creating 
+
+**Link to project(s):**
+1. [Blog Website](https://dailycodelog.herokuapp.com)
+
+---
+
+### Day 49: September 17 - 2020
+
+**Progress**: Building A RESTful API
+
+**Thoughts:** Built a REST API with NodeJS, Express, and MongoDB. Learned what methods and endpoints are needed for a RESTful API.

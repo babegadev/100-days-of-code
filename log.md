@@ -12,7 +12,7 @@
 
 --->
 
-### Day 0: May 26, 2020
+### Day 0: May 26, 2022
 
 **Today's Progress**: Lil bit of a headstart. Refactored old code for my tweet bot to now use MongoDB to store last-seen-id instead of txt file.
 
@@ -20,6 +20,15 @@
 
 **Link(s) to work**: [PyMongo Docs](https://pymongo.readthedocs.io/en/stable/)
 
+### Day 2: May 27, 2022
+
+**Today's Progress**: Updated my personal website to dynamically render recent projects from JSON file.
+
+**Thoughts**: Project itself was a very good refresher for react, tho I did not refactored the whole website to use react (i used React CDN). I planned on fetching the data via an API but haven't found a suitable way to host the NodeJS api. Also, today I managed to capture my first usable NOAA satelite image with an RTL-SDR.
+
+**Link(s) to work**
+1. [My Website](https://babega.com/projects.html)
+2. [NOAA19 Satelite Image](https://twitter.com/babegadev/status/1530178074264096770)
 
 <!--- ### Day 1: June 27, Monday
 

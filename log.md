@@ -20,7 +20,7 @@
 
 **Link(s) to work**: [PyMongo Docs](https://pymongo.readthedocs.io/en/stable/)
 
-### Day 2: May 27, 2022
+### Day 1: May 27, 2022
 
 **Today's Progress**: Updated my personal website to dynamically render recent projects from JSON file.
 
@@ -29,6 +29,15 @@
 **Link(s) to work**
 1. [My Website](https://babega.com/projects.html)
 2. [NOAA19 Satelite Image](https://twitter.com/babegadev/status/1530178074264096770)
+
+### Day 2: May 28, 2022
+
+**Today's Progress**: Finished the API server for projects list.
+
+**Thoughts**: I managed to finish the API server and will be finding a way to host it online. Besides that, I build a double cross antenna for receiving NOAA satelite image better than the previous V-dipole. Will be testing out the antenna tomorrow.
+
+**Link(s) to work**
+1. [My Website](https://babega.com/projects.html)
 
 <!--- ### Day 1: June 27, Monday
 
